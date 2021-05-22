@@ -1,0 +1,6 @@
+[book]
+authors = ["Cameron Dart"]
+language = "en"
+multilingual = false
+src = "src"
+title = "building-for-fun-and-profit"
