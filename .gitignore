@@ -1,1 +1,4 @@
 book
+*.a
+*.so
+a.out
