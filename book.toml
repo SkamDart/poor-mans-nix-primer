@@ -3,4 +3,4 @@ authors = ["Cameron Dart"]
 language = "en"
 multilingual = false
 src = "src"
-title = "nix-builds-for-fun-and-profit"
+title = "nix-cookbook"

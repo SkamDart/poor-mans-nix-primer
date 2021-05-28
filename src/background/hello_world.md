@@ -18,11 +18,8 @@ int main()
 Simple enough... How do we run this?
 
 ```
-[nix-shell:building-for-fun-and-profit/examples/hello-world]$ g++ main.cc 
-
-[nix-shell:building-for-fun-and-profit/examples/hello-world]$ ./a.out 
-
-[nix-shell:building-for-fun-and-profit/examples/hello-world]$ echo $?
+[nix-shell]$ clang++ main.cc -o hello-world
+[nix-shell]$ ./hello-world
 Hello World!
 ```
 
