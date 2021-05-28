@@ -2,3 +2,4 @@ book
 *.a
 *.so
 a.out
+log.out
