@@ -10,7 +10,4 @@
 	- [Simple](./builders/simple.md)
 	- [C++](./builders/cpp-builders.md)
 	- [Top Secret](./derivation/meme.md)
-- [Nix Debugging](./debugging/debugging.md)
-	- [Commands](./debugging/nix-commands.md)
-	- [Build](./debugging/nix-builds.md)
 

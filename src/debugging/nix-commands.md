@@ -1,1 +1,1 @@
-# Nix Commands
+# Commands
