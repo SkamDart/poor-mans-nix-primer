@@ -32,7 +32,6 @@ in stdenv.mkDerivation rec {
 }
 ```
 
-
 References
 - [derivation docs](https://nixos.org/manual/nix/stable/#ssec-derivation)
 - [nixpkgs](https://nixos.org/manual/nixpkgs/stable/#chap-stdenv)
